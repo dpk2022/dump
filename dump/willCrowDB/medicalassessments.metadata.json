@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"profileId":{"$numberInt":"1"}},"name":"profileId_1","background":true,"unique":true}],"uuid":"4cc68dca71584b1d95856ec7631f126f","collectionName":"medicalassessments","type":"collection"}
